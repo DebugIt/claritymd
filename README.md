@@ -120,10 +120,8 @@ prisma/
 
 ### 1. Clone the repository
 
-Replace the URL below with the repository URL:
-
 ```bash
-git clone https://github.com/your-username/claritymd.git
+git clone https://github.com/DebugIt/claritymd.git
 cd claritymd
 ```
 
