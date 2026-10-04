@@ -16,7 +16,7 @@ model User {
   @@index([email])
 }
 
-model Waitlist {
+model WaitList {
   id        String   @id @default(cuid())
   name      String
   email     String   @unique
